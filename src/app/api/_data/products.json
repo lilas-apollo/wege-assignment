@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pr-1",
+    "title": "Nike Shoe",
+    "description": "Quarterly financial summary including revenue, expenses, and projections for the upcoming quarter.",
+    "category": "Shoes",
+    "price": 100,
+    "createdAt": "2024-10-15T10:30:00Z",
+    "image": "/assets/pro1.webp"
+  },
+  {
+    "id": "pr-2",
+    "title": "Colorful Shirt",
+    "description": "Detailed marketing plan with campaigns, targets, and KPIs for 2024.",
+    "category": "Shirts",
+    "price": 50,
+    "createdAt": "2024-01-10T09:00:00Z",
+    "image": "/assets/pro2.webp"
+  },
+  {
+    "id": "pr-3",
+    "title": "Dell Laptop",
+    "description": "Quarterly quality summary including revenue, expenses, and projections for the upcoming quarter.",
+    "category": "Electronics",
+    "price": 300,
+    "createdAt": "2024-10-15T10:30:00Z",
+    "image": "/assets/pro1.webp"
+  },
+  {
+    "id": "pr-4",
+    "title": "Gussi Bag",
+    "description": "Quarterly quality summary including revenue, expenses, and projections for the upcoming quarter.",
+    "category": "Bags",
+    "price": 20,
+    "createdAt": "2024-10-15T10:30:00Z",
+    "image": "/assets/pro2.webp"
+  }
+]
