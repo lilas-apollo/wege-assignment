@@ -1,15 +1,7 @@
 "use client";
 
 import { useQuery } from "@tanstack/react-query";
-
-export type Product = {
-  id: string;
-  title: string;
-  description: string;
-  price: number;
-  image?: string;
-  category?: string;
-};
+import { Product } from "@/types/product";
 
 export function useProduct(id?: string) {
   return useQuery<Product | null>({
